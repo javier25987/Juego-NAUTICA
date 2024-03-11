@@ -101,8 +101,6 @@ def barco_inst(n=1):
 def barco_n(cor,n,sen):
     if n < 1:
         return []
-    #if n == 1:
-        #return list(cor)
     a = 'abcdefghij'
     b = [1,2,3,4,5,6,7,8,9,10]
     l = cor[0]
